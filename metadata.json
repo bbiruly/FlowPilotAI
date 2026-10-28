@@ -1,0 +1,6 @@
+{
+  "name": "FlowPilot AI - Agentic Customer Operations SaaS",
+  "description": "Every Conversation. One Intelligent Operation. Agentic AI customer operations platform automating support, sales qualification, and workflows for modern D2C & e-commerce brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
